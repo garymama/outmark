@@ -1,4 +1,4 @@
-const CACHE = 'outmark-shell-v5'
+const CACHE = 'outmark-shell-v6'
 const ROOT = new URL('./', self.location.href)
 
 self.addEventListener('install', (event) => {
